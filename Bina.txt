@@ -1,3 +1,0 @@
-This is the first file in Git
-I am modifying this file from Git
-editing in local repo to check the conflict
