@@ -1,1 +1,2 @@
 This is the first file in Git
+I am modifying this file from Git
